@@ -12,7 +12,7 @@ class ImageCropper:
     def __init__(self, master):
         self.master = master
         self.master.title("Image Cropper")
-        self.canvas = tk.Canvas(self.master, width=1600, height=1200) # Change canvas dimensions here
+        self.canvas = tk.Canvas(self.master, width=1600, height=1200) # Change canvas dimensions here and in line 54
         self.canvas.pack()
 
         self.raw_images_path = "rawImages"
