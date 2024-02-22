@@ -9,4 +9,4 @@ This python script creates a simple UI that allows to select an area on an image
 4. Save the image by pressing enter, the image will be saved in a folder called "croppedImages", which is automatically created. The saved image is resized to 512x512 pixels. The next raw image will open.
 
 ## License
-This was created using GPT-4 with only minor changes to update legancy functions of pillow. According to GPT-4, this is free to use for any purpose. Enjoy (-:
+This was created using GPT-4 with only minor changes to update legacy functions of pillow. According to GPT-4, this is free to use for any purpose. Enjoy (-:
